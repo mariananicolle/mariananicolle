@@ -1,5 +1,5 @@
 <h2 align="left">Oi 👋!  Me chamo Mariana.<br><br>
-<h4 aling="left">🎓 Estudante de Sistemas para Internet<br><br>📊 Iniciando meus estudos em Análise de Dados, explorando Excel, Python e SQL</h4>
+<h3 aling="left">🎓 Estudante de Sistemas para Internet<br><br>📊 Iniciando meus estudos em Análise de Dados, explorando Excel, Python e SQL</h3>
 
 ###
 
