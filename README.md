@@ -2,7 +2,7 @@
 <h3 aling="left">🎓 Estudante de Sistemas para Internet<br><br>📊 Iniciando meus estudos em Análise de Dados, explorando Excel, Python e SQL</h3>
 
 ###
-<br><br>
+<h3>Linguagens e Tecnologias </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
