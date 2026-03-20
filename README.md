@@ -1,5 +1,10 @@
 <h2 align="left">Oi 👋!  Me chamo Mariana.<br><br>
 <h3 aling="left">🎓 Estudante de Sistemas para Internet<br><br>📊 Iniciando meus estudos em Análise de Dados, explorando Excel, Python e SQL</h3>
+Estudante de **Sistemas para Internet (UTFPR)** e dedicada ao aprendizado de novas tecnologias. Atualmente, foco meus estudos na **área de Dados**, com o objetivo de transformar informações em soluções inteligentes.
+
+Estou nos primeiros passos para construir uma base sólida, entendendo como a lógica e os bancos de dados podem otimizar processos. Busco novos desafios para **evoluir tecnicamente e colaborar em projetos com impacto real.**
+
+---
 
 ###
 <h3>Linguagens e Tecnologias </h3>
